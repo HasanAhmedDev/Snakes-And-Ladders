@@ -13,6 +13,6 @@ A classic Snakes and Ladders game built in C++ with some additional challenges.
 
 # ScreenShots:
 
-![](Screens/1.jpg)
-![](Screens/2.jpg)
-![](Screens/3.jpg)
+![](Screens/1.JPG)
+![](Screens/2.JPG)
+![](Screens/3.JPG)
