@@ -1,6 +1,6 @@
 # SnakesAndLadders
 
-A classic Snakes and Ladders game built in C++ with some additional challenges.
+A classic Snakes and Ladders game built in C++ with some additional challenges. Add graphic files in project and compile Souce.cpp
 
 # Controls:
 
